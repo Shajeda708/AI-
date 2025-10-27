@@ -27,4 +27,5 @@ Beam Search is a *heuristic search algorithm* similar to Best-First Search but k
 - Space:  O(k*d) 
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/Beamsearch/Screenshot.png)
