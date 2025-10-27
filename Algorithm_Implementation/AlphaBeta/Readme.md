@@ -43,6 +43,7 @@ If at any point β ≤ α, the remaining branches will not be explored (because 
 - Space complexity:O(b*d)
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/AlphaBeta/Screenshot.png)
 
 - Space complexity:O(b*d)
+
