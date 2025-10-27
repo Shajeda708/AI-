@@ -40,5 +40,6 @@ Where: b = branching factor, d = depth of the solution
 - Slightly slower because it repeats searches at shallower depths.
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot1.png)
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/IDS/Screenshot1.png)
 ![ Input_Output_Screenshot](screenshot2.png)
+
