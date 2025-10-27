@@ -41,3 +41,8 @@ If at any point β ≤ α, the remaining branches will not be explored (because 
 ## Complexity
 - Time complexity:O(b^(d/2))
 - Space complexity:O(b*d)
+
+# Input/Output Screenshot
+![ Input_Output_Screenshot](screenshot.png)
+
+- Space complexity:O(b*d)
