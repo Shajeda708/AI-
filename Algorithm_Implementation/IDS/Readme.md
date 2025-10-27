@@ -41,5 +41,6 @@ Where: b = branching factor, d = depth of the solution
 
 # Input/Output Screenshot
 ![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/IDS/Screenshot1.png)
-![ Input_Output_Screenshot](screenshot2.png)
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/IDS/Screenshot2.png)
+
 
