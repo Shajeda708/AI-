@@ -45,4 +45,5 @@ b= branching factor
 d=depth of the solution
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/A_star/Screenshot.png)
+
