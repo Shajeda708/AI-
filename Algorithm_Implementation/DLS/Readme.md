@@ -34,7 +34,8 @@ DLS can miss the goal if it lies beyond the depth limit, but it saves both time 
 
 # Input/Output Screenshot
 ![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/DLS/Screenshot1.png)
-![ Input_Output_Screenshot](screenshot2.png)
+![ Input_Output_Screenshot](https://github.com/Shajeda708/AI-/blob/main/Algorithm_Implementation/DLS/Screenshot2.png)
+
 
 
 
