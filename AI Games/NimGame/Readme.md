@@ -28,6 +28,7 @@ The game window will open automatically.
 No external libraries are required besides Tkinter (which comes preinstalled with Python).
 # Game Screenshots
 ![NimGame Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/NimGame/Images/Screenshot1.png)
-![NimGame Screenshot](images/screenshot2.png)
+![NimGame Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/NimGame/Images/Screenshot2.png)
 
 ![NimGame Screenshot](images/screenshot3.png)
+
