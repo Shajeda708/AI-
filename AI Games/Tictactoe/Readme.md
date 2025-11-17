@@ -43,7 +43,7 @@ No external libraries are required except Tkinter, which comes built-in with Pyt
 ## Screenshots
 ![Game Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/Tictactoe/Images/Screenshot1.png)
 ![Game Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/Tictactoe/Images/Screenshot2%20.png)
-![Game Screenshot](Images/screenshot3.png)
+![Game Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/Tictactoe/Images/Screenshot3.png)
 
 
 ## Algorithm used (Minimax):
@@ -84,6 +84,7 @@ It assumes:
     - -1 → The player wins in the end
 5. The AI compares all the scores and picks the move with the highest score — the move that helps it win or at least draw.
 6. The AI then plays that move on the board.
+
 
 
 
