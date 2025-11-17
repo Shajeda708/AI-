@@ -43,8 +43,8 @@ No external libraries are required except Tkinter, which comes built-in with Pyt
 ## Screenshots
 ![Game Screenshot](<img width="645" height="661" alt="image" src="https://github.com/user-attachments/assets/741efd5a-5017-4c07-937c-4fee44597de7" />
 )
-![Game Screenshot](images/screenshot2.png)
-![Game Screenshot](images/screenshot3.png)
+![Game Screenshot](Images/screenshot2.png)
+![Game Screenshot](Images/screenshot3.png)
 
 
 ## Algorithm used (Minimax):
@@ -85,4 +85,5 @@ It assumes:
     - -1 → The player wins in the end
 5. The AI compares all the scores and picks the move with the highest score — the move that helps it win or at least draw.
 6. The AI then plays that move on the board.
+
 
