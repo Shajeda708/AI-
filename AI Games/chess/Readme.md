@@ -54,8 +54,9 @@ pip install python-chess
 
 # Game Screenshots
 ![Chees_Game Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/chess/Images/Screenshot1.png)
-![Chees_Game Screenshot](images/screenshot2.png)
+![Chees_Game Screenshot](https://github.com/Shajeda708/AI-/blob/main/AI%20Games/chess/Images/Screenshot2.png)
 ![Chees_Game Screenshot](images/screenshot3.png)
+
 
 
 
