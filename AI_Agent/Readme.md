@@ -64,6 +64,6 @@ The agent uses LangGraph for workflow orchestration, LangChain for LLM interacti
     Saves to researchoutput.txt file
     User receives confirmation
 ## screenshots
-[Ai_Agent](https://github.com/Shajeda708/AI-/blob/main/AI_Agent/Images/Screenshot1.png)
+![Ai_Agent](https://github.com/Shajeda708/AI-/blob/main/AI_Agent/Images/Screenshot1.png)
 [AI_Agent](./Images/screenshot1.png)
 [AI_Agent](./Images/screenshot2.png)
