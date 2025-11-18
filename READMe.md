@@ -21,7 +21,7 @@ During this course, I learned to:
 - Applications of AI in real-world systems.
 
 ## Duration of the Course
-- July 2025 – August 2025
+- July 2025 – December 2025
 
 
 
@@ -31,6 +31,7 @@ Course Instructor: Mr.Razorshi Prozzwal Talukdar
                    Lecturer 
 Department:Computer Science and Engineering  
 Institution:North East University Bangladesh
+
 
 
 
