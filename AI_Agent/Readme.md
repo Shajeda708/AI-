@@ -21,7 +21,7 @@ The agent uses LangGraph for workflow orchestration, LangChain for LLM interacti
 - Workflow Management: LangGraph orchestrates the research pipeline
 - Fast Inference: Powered by Groq's optimized LLM infrastructure
 ## Installation & Setup
-- Install Python version 3.8+ (3.12 recommended)
+- Install Python version 3.10+ (3.12 recommended)
 - Create Virtual Environment in your project folder
 - Activate the virtual environment
 - when virtual environment is activated install all the requirements(pip install -r requirements.txt)
